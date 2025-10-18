@@ -50,6 +50,7 @@ A custom sleek and modern dark GTK theme inspired by the infamous Noot Noot meme
 - Menus (context-menu, hamburger-menu) currently have a fully black background — needs either:
     - Better contrast via background color adjustments
     - Or visible borders to distinguish menu areas
+
 ✨ More tweaks and polish coming soon!
 
 <br>
