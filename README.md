@@ -4,7 +4,7 @@ A custom sleek and modern dark GTK theme inspired by the infamous Noot Noot meme
 
 ![NootNoot Meme](https://github.com/nootified/nootnootgtkdark/blob/main/images/meme.gif)
 
-
+<br>
 
 ## 🎨 Features
 
@@ -12,7 +12,7 @@ A custom sleek and modern dark GTK theme inspired by the infamous Noot Noot meme
 - macOS-style titlebar decorations by [Arnis K](https://github.com/kem-a/macos-titlebar)
 - Provides a clean and consistent look across GTK applications
 
-
+<br>
 
 ## 📸 Screenshots
 
@@ -20,7 +20,7 @@ A custom sleek and modern dark GTK theme inspired by the infamous Noot Noot meme
 
 ![Preview1](https://github.com/nootified/nootnootgtkdark/blob/main/images/Showcase2.png)
 
-
+<br>
 
 ## 📦 Installation
 
@@ -43,7 +43,7 @@ A custom sleek and modern dark GTK theme inspired by the infamous Noot Noot meme
    ```
 4. Log out and log back in to apply the theme changes properly.
 
-
+<br>
 
 ## 🛠️ To-Do
 
@@ -52,7 +52,7 @@ A custom sleek and modern dark GTK theme inspired by the infamous Noot Noot meme
     - Or visible borders to distinguish menu areas
 ✨ More tweaks and polish coming soon!
 
----
+<br>
 
 ## 🧩 Credits
 
