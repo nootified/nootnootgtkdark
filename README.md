@@ -25,22 +25,22 @@ A custom sleek and modern dark GTK theme inspired by the infamous Noot Noot meme
 ## 📦 Installation
 
 1. Backup your current GTK config (REQUIRED)
-```sh
-  mv ~/.config/gtk-3.0 ~/.config/gtk-3.0.backup
-  mv ~/.config/gtk-4.0 ~/.config/gtk-4.0.backup
-```
+   ```sh
+   mv ~/.config/gtk-3.0 ~/.config/gtk-3.0.backup
+   mv ~/.config/gtk-4.0 ~/.config/gtk-4.0.backup
+   ```
 2. Clone this repository:
    ```sh
    git clone https://github.com/nootified/nootnootgtkdark.git nootnootgtkdark
    ```
 3. Copy the GTK configuration files from the cloned repo to your `.config` directory:
-  ```sh
-  mkdir -p ~/.config/gtk-3.0
-  cp -r nootnootgtkdark/gtk3.0/* ~/.config/gtk-3.0/
+   ```sh
+   mkdir -p ~/.config/gtk-3.0
+   cp -r nootnootgtkdark/gtk3.0/* ~/.config/gtk-3.0/
 
-  mkdir -p ~/.config/gtk-4.0
-  cp -r nootnootgtkdark/gtk4.0/* ~/.config/gtk-4.0/
-  ```
+   mkdir -p ~/.config/gtk-4.0
+   cp -r nootnootgtkdark/gtk4.0/* ~/.config/gtk-4.0/
+   ```
 4. Log out and log back in to apply the theme changes properly.
 
 ---
