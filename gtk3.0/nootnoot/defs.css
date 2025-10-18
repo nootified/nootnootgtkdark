@@ -1,0 +1,190 @@
+@define-color window_bg_color #222226;
+@define-color window_fg_color #ffffff;
+
+@define-color view_bg_color #1d1d20;
+@define-color view_fg_color #ffffff;
+
+@define-color success_color #78e9ab;
+@define-color success_bg_color #26a269;
+@define-color success_fg_color #ffffff;
+
+@define-color warning_color #ffc252;
+@define-color warning_bg_color #cd9309;
+@define-color warning_fg_color #000000;
+
+@define-color destructive_color #ff938c;
+@define-color destructive_bg_color #c01c28;
+@define-color destructive_fg_color #ffffff;
+
+@define-color error_color #ff938c;
+@define-color error_bg_color #c01c28;
+@define-color errow_fg_color #ffffff;
+
+@define-color headerbar_bg_color #2e2e32;
+@define-color headerbar_fg_color #ffffff;
+
+@define-color popover_bg_color #1d1d20;
+@define-color popover_fg_color #ffffff;
+
+@define-color dialog_bg_color #1d1d20;
+@define-color dialog_fg_color #ffffff;
+
+@define-color card_bg_color #252525;
+@define-color card_fg_color #ffffff;
+
+@define-color sidebar_bg_color #1d1d20;
+@define-color sidebar_fg_color #ffffff;
+@define-color sidebar_backdrop_color #1d1d20;
+@define-color sidebar_border_color #252525;
+
+@define-color secondary_sidebar_bg_color @sidebar_bg_color;
+@define-color secondary_sidebar_fg_color @sidebar_fg_color;
+@define-color secondary_sidebar_backdrop_color @sidebar_backdrop_color;
+@define-color secondary_sidebar_border_color @sidebar_border_color;
+
+@define-color blue_1 #99c1f1;
+@define-color blue_2 #62a0ea;
+@define-color green_1 #8ff0a4;
+@define-color yellow_1 #f9f06b;
+@define-color red_1 #f66151;
+@define-color purple_1 #dc8add;
+@define-color purple_2 #c061cb;
+@define-color orange_1 #ffbe6f;
+@define-color brown_1 #cdab8f;
+@define-color light_1 #ffffff;
+@define-color light_5 #9a9996;
+@define-color dark_1 #77767b;
+
+@define-color accent_color #3584e4;
+@define-color accent_bg_color #3584e4;
+@define-color accent_fg_color #ffffff;
+
+/* === Base Colors === */
+@define-color window_bg_color #0a0a0a;
+@define-color window_fg_color #c8c8c8;
+@define-color view_bg_color #0a0a0a;
+@define-color view_fg_color #c8c8c8;
+
+/* === Headerbar === */
+@define-color headerbar_bg_color #0d0d0d;
+@define-color headerbar_backdrop_color #0d0d0d;
+@define-color headerbar_fg_color #c8c8c8;
+
+/* === Popovers, Dialogs, Cards, Sidebars === */
+@define-color popover_bg_color #0f0f0f;
+@define-color popover_fg_color #c8c8c8;
+@define-color dialog_bg_color #0f0f0f;
+@define-color dialog_fg_color #c8c8c8;
+@define-color card_bg_color #141414;
+@define-color card_fg_color #c8c8c8;
+@define-color sidebar_bg_color #0b0b0b;
+@define-color sidebar_fg_color #c4c4c4;
+
+/* === Bluish Palette === */
+@define-color accent_1 #d0e0f0; /* Light bluish-grey */
+@define-color accent_2 #90b0d0; /* Soft blue */
+@define-color accent_3 #6090c0; /* Medium blue */
+@define-color accent_4 #406080; /* Darker blue */
+@define-color accent_5 #204060; /* Deep blue */
+@define-color light_1 #d0e0f0; /* Align with accent_1 */
+@define-color light_2 #90b0d0; /* Align with accent_2 */
+@define-color light_3 #6090c0; /* Align with accent_3 */
+@define-color light_4 #406080; /* Align with accent_4 */
+@define-color light_5 #204060; /* Align with accent_5 */
+@define-color dark_1 #1a1a1a;
+@define-color dark_2 #141414;
+@define-color dark_3 #0c0c0c;
+@define-color dark_4 #060606;
+@define-color dark_5 #000000;
+
+/* === Colored Palettes (Updated to use vibrant red for cautionary) === */
+@define-color blue_1 #d0e0f0; /* Light bluish-grey */
+@define-color blue_2 #90b0d0; /* Soft blue */
+@define-color blue_3 #6090c0; /* Medium blue */
+@define-color blue_4 #406080; /* Darker blue */
+@define-color blue_5 #204060; /* Deep blue */
+@define-color green_1 #d0e0f0;
+@define-color green_2 #90b0d0;
+@define-color green_3 #6090c0;
+@define-color green_4 #406080;
+@define-color green_5 #204060;
+@define-color yellow_1 #6090c0; /* Medium blue as warning proxy */
+@define-color yellow_2 #6090c0;
+@define-color yellow_3 #90b0d0;
+@define-color yellow_4 #d0e0f0;
+@define-color yellow_5 #c8c8c8;
+@define-color orange_1 #6090c0;
+@define-color orange_2 #406080;
+@define-color orange_3 #204060;
+@define-color orange_4 #1a1a1a;
+@define-color orange_5 #141414;
+@define-color red_1 #FF0000; /* Vibrant red */
+@define-color red_2 #EE0000; /* Slightly darker red */
+@define-color red_3 #CC0000; /* Deeper red */
+@define-color red_4 #AA0000; /* Dark red */
+@define-color red_5 #880000; /* Darkest red */
+@define-color purple_1 #d0e0f0;
+@define-color purple_2 #90b0d0;
+@define-color purple_3 #6090c0;
+@define-color purple_4 #406080;
+@define-color purple_5 #204060;
+@define-color brown_1 #0c0c0c;
+@define-color brown_2 #060606;
+@define-color brown_3 #000000;
+@define-color brown_4 #0a0a0a;
+@define-color brown_5 #0a0a0a;
+
+/* === Accent and Theme Colors (Updated with vibrant red for cautionary) === */
+@define-color accent_bg_color #6090c0; /* Medium blue */
+@define-color accent_color #6090c0; /* Medium blue */
+@define-color accent_fg_color #ffffff; /* White text for contrast */
+@define-color destructive_bg_color #FF0000; /* Updated to vibrant red */
+@define-color destructive_color #FF0000; /* Updated to vibrant red */
+@define-color destructive_fg_color #e0e0e0;
+@define-color success_bg_color #406080; /* Darker blue */
+@define-color success_fg_color #e8e8e8;
+@define-color warning_color #FF0000; /* Updated to vibrant red */
+@define-color warning_bg_color #FF0000; /* Updated to vibrant red */
+@define-color warning_fg_color #e8e8e8;
+@define-color error_bg_color #FF0000; /* Updated to vibrant red */
+@define-color error_fg_color #e0e0e0;
+@define-color success_color #406080; /* Darker blue */
+@define-color error_color #FF0000; /* Updated to vibrant red */
+@define-color headerbar_border_color rgba(96, 144, 192, 0.5); /* Medium blue with transparency */
+@define-color headerbar_shade_color rgba(64, 96, 128, 0.4); /* Darker blue shade */
+@define-color headerbar_darker_shade_color rgba(32, 64, 96, 0.95); /* Deep blue shade */
+@define-color sidebar_backdrop_color @sidebar_bg_color;
+@define-color sidebar_shade_color rgba(32, 64, 96, 0.3); /* Deep blue shade */
+@define-color sidebar_border_color rgba(64, 96, 128, 0.4); /* Darker blue border */
+@define-color card_shade_color rgba(32, 64, 96, 0.4); /* Deep blue shade */
+@define-color thumbnail_bg_color @card_bg_color;
+@define-color thumbnail_fg_color @card_fg_color;
+@define-color shade_color rgba(32, 64, 96, 0.3); /* Deep blue shade */
+@define-color scrollbar_outline_color rgba(32, 64, 96, 0.98); /* Deep blue outline */
+@define-color panel_bg_color @window_bg_color;
+@define-color panel_fg_color @window_fg_color;
+@define-color theme_fg_color @window_fg_color;
+@define-color theme_text_color @window_fg_color;
+@define-color theme_bg_color @window_bg_color;
+@define-color theme_base_color @view_bg_color;
+@define-color theme_selected_bg_color #6090c0; /* Medium blue */
+@define-color theme_selected_fg_color #ffffff; /* White text */
+@define-color insensitive_bg_color mix(@theme_bg_color, @theme_bg_color, 0.4);
+@define-color insensitive_fg_color alpha(@theme_fg_color, 0.45);
+@define-color insensitive_base_color @theme_base_color;
+@define-color theme_unfocused_fg_color mix(@theme_fg_color, @theme_bg_color, 0.5);
+@define-color theme_unfocused_text_color @theme_text_color;
+@define-color theme_unfocused_bg_color @theme_bg_color;
+@define-color theme_unfocused_base_color @theme_base_color;
+@define-color theme_unfocused_selected_bg_color #406080; /* Darker blue */
+@define-color theme_unfocused_selected_fg_color #d0e0f0; /* Light bluish-grey */
+@define-color unfocused_insensitive_color mix(mix(@theme_fg_color, @theme_bg_color, 0.5), @theme_bg_color, 0.5);
+@define-color borders mix(currentColor, @theme_bg_color, 0.88);
+@define-color unfocused_borders mix(currentColor, @theme_bg_color, 0.76);
+@define-color warning_color #FF0000; /* Updated to vibrant red */
+@define-color error_color #FF0000; /* Updated to vibrant red */
+@define-color success_color #406080; /* Darker blue */
+@define-color content_view_bg @theme_bg_color;
+@define-color text_view_bg shade(@theme_bg_color, 0.96);
+@define-color accent_bg_color @blue_2;
+@define-color accent_fg_color @window_bg_color;

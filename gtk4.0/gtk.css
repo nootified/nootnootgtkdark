@@ -1,0 +1,10 @@
+/* NootNoot Theme */
+@import 'nootnoot/main.css';/**/
+
+/* SOURCE: https://github.com/kem-a/macos-titlebar */
+
+/* Titlebar style */
+@import 'macos_titlebar/titlebuttons.css';/**/
+
+/* GTK/Geary visual adjustments */
+@import 'macos_titlebar/fixes.css';/**/

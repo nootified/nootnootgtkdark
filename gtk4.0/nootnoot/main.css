@@ -1,0 +1,17 @@
+@import 'defs.css';
+
+toast {
+  background-color: #222226;
+  color: #ffffff;
+}
+
+toggle:checked {
+  background-color: #252525;
+  color: #ffffff;
+}
+
+.titlebar:not(headerbar),
+headerbar {
+  border-bottom: 1px solid #1a1616;
+  background: #0d0d0d linear-gradient(to top, #0d0d0d, #0d0d0d);/**/
+}
