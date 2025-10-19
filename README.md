@@ -8,7 +8,7 @@ A custom sleek and modern dark GTK theme inspired by the infamous Noot Noot meme
 
 ## 🎨 Features
 
-- Custom dark, elegant color palette
+- Dark & Elegant color palette
 - macOS-style titlebar decorations by [Arnis K](https://github.com/kem-a/macos-titlebar)
 - Provides a clean and consistent look across GTK applications
 
